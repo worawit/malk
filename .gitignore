@@ -1,3 +1,7 @@
+# MSVC build directory
+x64
+.vs
+
 # Prerequisites
 *.d
 
